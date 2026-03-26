@@ -1,12 +1,12 @@
-#CV & Portfolio – Clara Muñoz
+# CV & Portfolio – Clara Muñoz
 Portfolio in progress focused on education data, public policy, and econometric analysis.
 
-##About me
+## About me
 I am interested in understanding educational inequality and public policy using data.
 My work combines econometrics, data analysis, and social science.
 
 
-##Current work
+## Current work
 Learning Python for data analysis
 Working with educational data (Mexico & PISA)
 Exploring econometric models 
