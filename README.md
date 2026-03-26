@@ -12,15 +12,14 @@ Working with educational data (Mexico & PISA)
 Exploring econometric models 
 
 
-🚀 (coming soon)
-This section will include:
+🚀 This section will include:
 PISA 2022 analysis
 Educational indicators in Mexico
 Data visualizations and maps
 
 
-🛠️ Tools
-Python (learning)
+🛠️ Tools:
+Python 
 Stata
 Data analysis and visualization
 
