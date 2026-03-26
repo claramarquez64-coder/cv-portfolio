@@ -1,4 +1,4 @@
-# CV & Portfolio – Clara Muñoz
+# CV & Portfolio – Clara Muñoz-Márquez
 Portfolio in progress focused on education data, public policy, and econometric analysis.
 
 ## About me
